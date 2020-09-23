@@ -1,0 +1,37 @@
+The Web Design Group's CSS Reference help file is intended to provide
+a quick overview of all CSS properties, their values and brief 
+descriptions.
+
+The help file includes:
+ - Introduction to Style Sheets
+ - Quick Tutorial
+ - CSS Structure and Rules  
+ - CSS Properties Reference
+ - Methods of Linking Style Sheets to HTML
+ - CSS References  
+
+Each property has full annotations regarding appearance, and possible values. 
+All properties are fully hyperlinked to allow for quick and easy navigation
+from one property to another, and a searchable index and table of contents
+are only a click away.
+
+The file is available for Windows 3.1, Windows 95, and a Mac version is 
+currently in the works.  The WDG encourages suggestions and requests from 
+end users in regards to the content of the help file, or additions they would 
+like to see implemented.
+
+The help file is freely available to all users, and the WDG has a set of 
+guidelines for distribution and commercial uses of the file availalble at:
+http://www.htmlhelp.com/distribution/guidelines/.  
+
+The latest updates to the CSS Reference help file can be obtained from:
+http://www.htmlhelp.com/distribution/.
+
+
+
+
+
+
+
+
+
